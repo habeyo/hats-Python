@@ -15,5 +15,5 @@
 # step 5 go to the source control and click it => click the add button and select your working folder
 # step 6 give commit messege and commit the changes
 # step 7 add remote repository(git hub repo)
-# from view=>command palette=> write add remote
+# from view=>command palette=> write add remote=> give name=>enter and put the url eg (https://github.com/habeyo/hats-Python.git)
 # step 7 push the commited changes to git hub
