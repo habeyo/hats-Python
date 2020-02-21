@@ -10,6 +10,8 @@
 # steps to use git from VS
 # STEP 1. Install git and create github account
 # step 2. create a repository in ypur git hub and copy the url of the repository
-# step 3 go to vs code and go to setting 
+# step 3 go to vs code and go to file => preferences=> setting => write Git enabeled so make sure git is enabled is tick(right mark)
 # step 4 go to file and open the folder you want to work with eg i am opening python4e1 folder with many files in it
-# step 5 go to the source control 
+# step 5 go to the source control and click it => click the add button and select your working folder
+# step 6 give commit messege and commit the changes
+# step 7 push the commited changes to git hub
