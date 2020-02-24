@@ -1,4 +1,4 @@
-# hats-Python 101
+# hats-Python 101-change
 # TO change from one folder to another eg
 # C:\Users\hats> dir=> to konw the files insdie
 # C:\Users\hats> cd dirname' eg python'
